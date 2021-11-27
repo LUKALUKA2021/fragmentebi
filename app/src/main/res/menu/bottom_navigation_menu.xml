@@ -14,11 +14,11 @@
     <item
         android:id="@+id/photoFragment"
         android:icon="@drawable/ic_baseline_photo_24"
-        android:title="Photo"/>
+        android:title="Photos"/>
 
     <item
         android:id="@+id/noteFragment"
         android:icon="@drawable/ic_baseline_notes_24"
-        android:title="Note"/>
+        android:title="Notes"/>
 
 </menu>
